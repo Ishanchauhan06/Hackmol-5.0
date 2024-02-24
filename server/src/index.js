@@ -17,11 +17,16 @@ app.use(express.static('public'));
 
 const userRoutes = require('./routes/userRoutes');
 const areaRoutes = require('./routes/areaRoutes');
+const QrRoutes = require('./routes/QrRoutes');
+const slotBookingRoutes = require('./routes/slotBookingRoutes');
 
 connectDB(); 
 
 app.use('/api/v1/user',userRoutes);
 app.use('/api/v1/area',areaRoutes);
+app.use('/api/v1/qr',QrRoutes);
+app.use('/api/v1/slotbooking',slotBookingRoutes);
+
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {

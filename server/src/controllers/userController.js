@@ -1,4 +1,4 @@
-const {userModel} = require('../models/index1')
+const {userModel} = require('../models')
 
 // const userModel = require('../models/userModel')
 const bcrypt = require('bcrypt')
@@ -11,7 +11,7 @@ exports.getAllUsers=async (req,res)=>{
     return res.status(200).send({
       userCount:users.length,
       sucess:true,
-      message:"all users data",
+      message:"all users data", 
       users,
     })
   }catch(err){
@@ -22,7 +22,7 @@ exports.getAllUsers=async (req,res)=>{
       error
     })
   }
-};
+}; 
 
 exports.registerController = async (req,res)=>{
   try{
