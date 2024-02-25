@@ -35,7 +35,7 @@
 
 # Workflow
 
-For better visibility you can click to this [MIRO BOARD LINK](https://miro.com/app/board/uXjVMyOV4Dk=/)
+For better visibility you can visit this [MIRO BOARD LINK](https://miro.com/app/board/uXjVMyOV4Dk=/)
 
 <img width="1506" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/1881d5b0-5930-42c5-a701-c90ab2fa16ec">
 
