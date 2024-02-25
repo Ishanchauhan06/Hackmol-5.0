@@ -1,10 +1,13 @@
-# Hackmol-5.0 Jalandhar
+# SPASHT - Smart Parking Automated System with Hassle-free Tracking
 
-## Prerequisites
+## Pre-requisites
 1. Node JS >= 18
 1. NPM >= 9
 1. Python >= 3.10
 1. PIP >= 24.0
+1. DroidCam
+
+**Note:** For the purpose of integrating mobile camera as CCTV, DroidCam application is being used. For this the URL of the mobile/camera source should be entered as the source URL in the CV Model program. Both devices should be over the same network.
 
 ## Installation Steps
 
