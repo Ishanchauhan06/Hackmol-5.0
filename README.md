@@ -18,7 +18,7 @@
     cd Hackmol-5.0
     ```
 
-### Installation for below applications
+### Installation guideline for below applications
 
 1. [Website](./docs/installations/website.md)
 1. [Admin Dashboard](./docs/installations/admin-dashboard.md)
