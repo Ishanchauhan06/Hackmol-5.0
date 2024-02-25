@@ -5,6 +5,7 @@ import GoogleMapEmbed from "./GoogleMapEmbed.js";
 import NoticeMarquee from "./NoticeMarque";
 import axios from "axios";
 import "../styles/parkingareadetails.css";
+
 const ParkingAreaDetail = ({ areas }) => {
   const { areaId } = useParams();
   const selectedArea = areas.find((area) => area.id === parseInt(areaId));
@@ -101,17 +102,17 @@ const ParkingAreaDetail = ({ areas }) => {
           </button>
         </div>
       </div>
-      <iframe
-      className="m-14"
-        width="675"
-        height="316"
-        frameborder="0"
-        scrolling="no"
-        marginheight="0"
-        marginwidth="0"
-        id="gmap_canvas"
-        src="https://maps.google.com/maps?width=675&amp;height=316&amp;hl=en&amp;q=NIT%20Jalandhar%20Jalandhar+(NITJaladhar)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-      ></iframe>
+        <iframe
+          className="m-14 mx-auto block"
+          width="675"
+          height="316"
+          frameborder="0"
+          scrolling="no"
+          marginheight="0"
+          marginwidth="0"
+          id="gmap_canvas"
+          src="https://maps.google.com/maps?width=675&amp;height=316&amp;hl=en&amp;q=NIT%20Jalandhar%20Jalandhar+(NITJaladhar)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+        ></iframe>
       {/* Display the button to book a slot */}
       <div className="flex justify-center">
         {selectedArea.availableSlots > 0 ? (
