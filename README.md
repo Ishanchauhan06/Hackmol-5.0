@@ -1,4 +1,8 @@
-# SPASHT - Smart Parking Automated System with Hassle-free Tracking
+<p align="center">
+    <img src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/8a69c9dc-86c2-47fa-8e2a-57814399c050" />
+</p>
+
+## SPASHT - ***Smart Parking Automated System with Hassle-free Tracking***
 
 ## Pre-requisites
 1. Node JS >= 18
