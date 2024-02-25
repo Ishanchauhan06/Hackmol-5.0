@@ -4,6 +4,14 @@
 
 ## SPASHT - ***Smart Parking Automated System with Hassle-free Tracking***
 
+
+| Module      | Image |
+| ----------- | ----------- |
+| Sign Up    | <img width="900" height="400" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/7fde3a5b-abbb-4f58-abf9-40f1d2c4e8ef"> |
+| Login      | <img width="900" height="400" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/c4bfff3e-feba-4aa9-acb0-3c7ed6aedd44"> |
+| Areas      | <img width="900" height="450" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/2e010eaf-4663-4290-9e89-a9894688ec74"> |
+| Slots      | <img width="1580" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/f35540bf-7f09-40a4-b3a7-597940b85a15"> |
+
 ## Pre-requisites
 1. Node JS >= 18
 1. NPM >= 9
