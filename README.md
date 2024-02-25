@@ -2,10 +2,11 @@
 
 ## Prerequisites
 1. Node JS >= 18
-1. Python >= 3.7
 1. NPM >= 9
+1. Python >= 3.10
+1. PIP >= 24.0
 
-## Instalation Steps
+## Installation Steps
 
 1. Clone the repository
     ```sh
