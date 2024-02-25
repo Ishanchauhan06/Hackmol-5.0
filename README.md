@@ -26,4 +26,11 @@
 1. [CV Model](./docs/installations/cv-model.md)
 1. [QR Scanner](./docs/installations/qr-scanner.md)
 
-# Project Screenshots
+# Workflow
+
+For better visibility you can click to this [MIRO BOARD LINK](https://miro.com/app/board/uXjVMyOV4Dk=/)
+
+<img width="1506" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/1881d5b0-5930-42c5-a701-c90ab2fa16ec">
+
+<img width="1168" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/537d9caf-dac9-4009-bb57-1eeeaaecb2f0">
+
