@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/8a69c9dc-86c2-47fa-8e2a-57814399c050" />
+    <img width="296" alt="image" src="https://github.com/Ishanchauhan06/Hackmol-5.0/assets/91321534/c0708b0b-4e0f-4f32-82c3-f54b0ae7ef18">
 </p>
 
 ## SPASHT - ***Smart Parking Automated System with Hassle-free Tracking***
